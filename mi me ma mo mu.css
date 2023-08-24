@@ -20,7 +20,7 @@
 
 :root {
   /* Background image variables */
-  --background-image: url('https://cdn.discordapp.com/attachments/1140314374171545702/1140356035413028905/image.png'); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url('https://cdn.discordapp.com/attachments/1068897531695747164/1144355732494503987/image.png'); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-image-blur: 5px; /* Blur intensity of --background-image | Must end in px | DEFAULT: 5px */
   --background-image-size: cover; /* Size of the background image | DEFAUT: cover | OPTIONS: cover, contain */
   --background-image-position: center; /* Position of background image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
